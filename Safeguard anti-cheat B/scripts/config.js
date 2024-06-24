@@ -11,7 +11,7 @@ export default {
     "combat": {
         "autoclicker":{
             //if player cps go over this number, player gets flagged for autoclicker
-            "maxCps": 20
+            "maxCps": 10
         },
         "killaura":{
             //if player attacks this or many more number of entities in a single tick, gets flagged for killaura
